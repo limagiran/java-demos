@@ -1,5 +1,3 @@
-package com.limagiran.animations;
-
 import static javax.swing.UIManager.getInstalledLookAndFeels;
 import static java.awt.RenderingHints.*;
 import static com.limagiran.animations.CircleTranslationAnimationUtils.*;
